@@ -47,3 +47,6 @@ done
 # 結果表示の後半部分
 echo
 echo "=========="
+echo
+echo "Enterキーを押して終了してください..."
+read -r
